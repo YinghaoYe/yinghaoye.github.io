@@ -1,0 +1,23 @@
+:root {
+    --md-text-font: "Times New Roman", "fantasy"; 
+    --md-code-font: "Arial";
+}
+.md-tabs__link{
+    font-size: 30px;
+}
+.std_out{
+    display: flex;
+    flex-wrap: wrap;
+}
+.std_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    img {
+        width: 250px;
+        height: 332px;
+
+    }
+}

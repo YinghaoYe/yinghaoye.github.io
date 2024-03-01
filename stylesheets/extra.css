@@ -5,6 +5,24 @@
 .md-tabs__link{
     font-size: 30px;
 }
+
+.md-header__button.md-logo img{
+    height: 50px;
+}
+.md-tabs__item {
+    height:3rem;
+    padding-left: .8rem;
+    padding-right: .8rem
+}
+.md-tabs__list {
+    justify-content: space-between;
+}
+.md-content__inner img{
+    
+    width: 1600px;
+    
+}
+
 .std_out{
     display: flex;
     flex-wrap: wrap;
@@ -14,10 +32,18 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    border-radius: 50%;
+    overflow: hidden;
     margin: 10px;
     img {
         width: 250px;
         height: 332px;
 
     }
+    
+    
+}
+.std_itd{
+        margin-left: 100px;
+        font-size: 40px;
 }

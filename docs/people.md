@@ -71,7 +71,8 @@ hide:
 
 
 ## 2021级在读研究生
-<span class="std_box">
+<span class="std_out">
+    <span class="std_box">
         <img src="../images/people/姜晓雪.jpg" loading="lazy"/>
         <text>姜晓雪</text>
     </span>

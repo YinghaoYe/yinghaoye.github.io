@@ -3,7 +3,7 @@ hide:
   - navigation 
   - toc        
 ---
-# Publication
+
 
 +	Y. Ye, T. Ullrick, W. Bogaerts, T. Dhaene and D. Spina, “SPICE-compatible equivalent circuit models for accurate time-domain simulations of passive photonic integrated circuits,” Journal of Lightwave Technology, vol. 40, no. 24, pp. 7856-7868, Dec. 2022.
 +	D. Spina, Y. Ye, D. Deschrijver, W. Bogaerts and T. Dhaene, "Complex vector fitting toolbox: A software package for the modelling and simulation of general linear and passive baseband systems", Electron. Lett., vol. 57, no. 10, pp. 404-406, May 2021.

@@ -1,0 +1,22 @@
+site_name: Lab_introduction
+nav:
+  - Research: index.md
+  - People: people.md
+  - Project: project.md
+  - Activity: activity.md
+  - Publication: publication.md
+theme: 
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+markdown_extensions:
+  - footnotes
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tufuwq/use.gthub.io
+      name: github url

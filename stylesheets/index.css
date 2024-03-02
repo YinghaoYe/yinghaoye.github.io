@@ -1,0 +1,39 @@
+
+.md-content__inner {
+    height :0px;
+}
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#lb_box{
+	width: 1250px;
+	height: 500px;
+	margin:100px auto;
+	position: relative;
+}
+.img_use img{
+	width: 1500px;
+	height: 500px;
+	border: 1px solid #000;
+}
+#img_box{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+#img_box li{
+	position: absolute;
+	opacity: 0;
+	transition: opacity 0.75s ease-in;
+	z-index: -1;
+}
+#img_box li.img_show{
+	opacity: 1;
+	transition: opacity 0.75s ease-in;
+	z-index: 2;
+}
+
+
+  

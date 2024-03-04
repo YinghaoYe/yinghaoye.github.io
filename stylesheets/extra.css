@@ -8,14 +8,19 @@
 
 .md-header__button.md-logo img{
     height: 40px;
+    
 }
 .md-tabs__item {
-    height:20px;
+
+    
+    height:43px;
     /* padding-left: 6rem; */
     padding-right: .8rem
 }
 .md-tabs__list {
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    /* justify-content: center; */
+    align-items: center;
     padding: 20px;
 }
 .md-content__inner img{
@@ -76,12 +81,14 @@
     }
 }
 .std_itd{
+    padding-top: 6%;
     float: right;
     width: 78%;
+    align-items: center;
     justify-content: center;
     align-items: center;
     padding-left: 20px;
-    font-size: 25px;
+    font-size: 23px;
     
 }
 

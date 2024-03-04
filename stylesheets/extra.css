@@ -60,7 +60,7 @@
 .std_box_tutor{
 
     float: left;
-    width: 300px;
+    width: 22%;
     img {
         display: block;
         width: 300px;
@@ -77,7 +77,7 @@
 }
 .std_itd{
     float: right;
-    width: 1000px;
+    width: 78%;
     justify-content: center;
     align-items: center;
     padding-left: 20px;

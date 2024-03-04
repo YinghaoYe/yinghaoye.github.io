@@ -60,6 +60,7 @@
 .std_box_tutor{
 
     float: left;
+    width: 300px;
     img {
         display: block;
         width: 300px;

@@ -4,10 +4,71 @@ hide:
   - toc        
 ---
 
-##主要研究领域与方向
-课题组致力于光电子设计自动化（Photonics Design Automation, PDA）方面的研究工作，目前主要有以下研究方向：
 
-+	光电子器件行为级建模（包括无源器件和有源器件）
-+	光电子器件及线路设计
-+	光电子线路不确定性分析（以统计学的方式量化制造工艺偏差对光电子器件/线路性能的影响，Variability Analysis/Uncertainty Quantification）
-+	应用于光电子集成芯片设计的光电联合仿真引擎开发
+<span >
+    <span class="index_out">
+        <span class="index_box">
+            <img src="../images/other/lb_0.jpg" loading="lazy"/>
+        </span>
+        <span class="index_txt">
+            <text>我们从事了什么的研究 </text>
+        </span>
+    </span> 
+	<span class="index_out">
+        <span class="index_box">
+            <img src="../images/other/lb_1.jpg" loading="lazy"/>
+        </span>
+        <span class="index_txt">
+            <text>我们从事了什么的研究 </text>
+        </span>
+    </span> 
+	<span class="index_out">
+        <span class="index_box">
+            <img src="../images/other/lb_2.jpg" loading="lazy"/>
+        </span>
+        <span class="index_txt">
+            <text>我们从事了什么的研究 </text>
+        </span>
+    </span> 
+</span>
+<!-- <div id="lb_box">
+		<div id="img_box" class="img_use">
+			<ul>
+				<li><img src="../images/other/lb_0.jpg"></li>
+				<li><img src="../images/other/lb_1.jpg"></li>
+				<li><img src="../images/other/lb_2.jpg"></li>
+			</ul>
+		</div>
+</div> -->
+
+# 
+
+<style>
+	.index_out{
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		.index_box{
+			float: left;
+			width: 60%;
+		
+			img{
+				height: 600px;
+				width: 800px;
+			}
+	    }
+		.index_txt{
+			float: right;
+			width: 400px;
+			
+		}
+	}
+	
+
+
+
+</style>
+<!-- <link rel="stylesheet" href="stylesheets/index.css">
+<script type="text/javascript" src="javascripts/index.js">
+  
+</script> -->

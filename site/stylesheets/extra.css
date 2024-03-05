@@ -1,10 +1,30 @@
 :root {
-    --md-text-font: "Times New Roman", "fantasy"; 
+    --md-text-font: "Arial",'YaHei'; 
     --md-code-font: "Arial";
 }
 .md-tabs__link{
-    font-size: 30px;
+    font-size: 18px;
+    margin-top: 0px;
 }
+
+.md-tabs__item {
+
+    
+    height:10px;
+    /* padding-left: 6rem; */
+    padding-right: .8rem
+}
+.md-tabs__list {
+    align-items: center;
+    padding: 20px 0px;
+
+}
+.md-content__inner img{
+    
+    width: 1600px;
+    
+}
+
 .std_out{
     display: flex;
     flex-wrap: wrap;
@@ -14,10 +34,58 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    
+    overflow: hidden;
     margin: 10px;
     img {
-        width: 250px;
-        height: 332px;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+        object-position: center-3px;
+
+    }
+    img:hover{
+        box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+        filter: brightness(50%);
+
+    }
+    
+    
+}
+.std_out_tutor{
+    display: flex;
+    flex-direction: column;
+    
+}
+.std_box_tutor{
+
+    float: left;
+    width: 22%;
+    img {
+        display: block;
+        width: 300px;
+        height: 400px;
+        object-fit: cover;
+        object-position: center-3px;
+
+    }
+    img:hover{
+        box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+        filter: brightness(50%);
 
     }
 }
+.std_itd{
+    padding-top: 6%;
+    float: right;
+    width: 78%;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    font-size: 23px;
+    
+}
+
+

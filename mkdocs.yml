@@ -1,24 +1,31 @@
-site_name: Lab_introduction
+site_name: ''
 nav:
-  - Research: index.md
+  - Home: index.md
+  - Research: research.md
   - People: people.md
   - Project: project.md
   - Activity: activity.md
   - Publication: publication.md
 theme: 
+  palette:
+    primary: white
+  logo: ../images/other/logo_gzu_0.png
+  favicon: ../images/other/logo_use_0.png
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs.sticky
+    - header.autohide
+    - navigation.tracking
 markdown_extensions:
   - footnotes
 extra_css:
   - stylesheets/extra.css
+  # - stylesheets/activity.css
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/tufuwq/use.gthub.io
-      name: github url
+  generator: false
+
 extra_javascript:
   - javascripts/extra.js

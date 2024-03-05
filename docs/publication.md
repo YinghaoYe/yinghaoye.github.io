@@ -3,8 +3,8 @@ hide:
   - navigation 
   - toc        
 ---
-
-
++ J. Feng, F. Zhao, and Y. Ye, “Extracting causal impulse responses from baseband band-limited S-parameters of passive photonic integrated circuits for time-domain simulations,” Opt. Express, vol. 32, no. 5, pp. 7697-7709, Jan. 2024.
++ X. Jiang, Y. Ye, “Incorporating frequency responses of passive photonic integrated circuits into discrete time-domain simulations using pole-residue fitting,” Optics & Laser Technology, Vol. 175, Feb. 2024.
 +	Y. Ye, T. Ullrick, W. Bogaerts, T. Dhaene and D. Spina, “SPICE-compatible equivalent circuit models for accurate time-domain simulations of passive photonic integrated circuits,” Journal of Lightwave Technology, vol. 40, no. 24, pp. 7856-7868, Dec. 2022.
 +	D. Spina, Y. Ye, D. Deschrijver, W. Bogaerts and T. Dhaene, "Complex vector fitting toolbox: A software package for the modelling and simulation of general linear and passive baseband systems", Electron. Lett., vol. 57, no. 10, pp. 404-406, May 2021.
 +	Y. Ye, D. Spina, W. Bogaerts, and T. Dhaene, “Baseband macromodeling of linear photonic circuits for time-domain simulations,” Journal of Lightwave Technology, vol. 37, no. 4, pp. 1364-1373, Feb. 2019.
@@ -14,3 +14,4 @@ hide:
 +	Y. Ye, D. Spina, P. Manfredi, D. Vande Ginste and T. Dhaene, “A comprehensive and modular stochastic modeling framework for the variability-aware assessment of signal integrity in high-speed links,” IEEE Transactions on Electromagnetic Compatibility, vol. 60, no. 2, pp. 459-467, Apr. 2018.
 +	Y. Ye, D. Spina, Y. Xing, W. Bogaerts, and T. Dhaene, “Numerical modeling of a linear photonic system for accurate and efficient time-domain simulations,” Photonics Research, vol. 6, no. 6, pp. 560–573, Jun. 2018.
 +	F. Passos, Y. Ye, D. Spina, E. Roca, R. Castro-López, T. Dhaene, and F. V. Fernández, “Parametric macromodeling of integrated inductors for RF circuit design,” Microwave and optical technology letters, vol. 59, no. 5, pp. 1207-1212, Mar. 2017.
+# 

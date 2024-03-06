@@ -38,11 +38,10 @@
     overflow: hidden;
     margin: 10px;
     img {
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
+        width: 220px;
+        height: 270px;
+        border-radius: 30%;
         object-fit: cover;
-        object-position: center-3px;
 
     }
     img:hover{
@@ -61,13 +60,14 @@
 .std_box_tutor{
 
     float: left;
-    width: 22%;
+    width: 25%;
     img {
         display: block;
-        width: 300px;
-        height: 400px;
+        width: 280px;
+        height: 350px;
         object-fit: cover;
-        object-position: center-3px;
+        object-position: center-0px;
+		border-radius: 5%;
 
     }
     img:hover{
@@ -79,7 +79,7 @@
 .std_itd{
     padding-top: 6%;
     float: right;
-    width: 78%;
+    width: 75%;
     align-items: center;
     justify-content: center;
     align-items: center;
